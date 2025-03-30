@@ -3,7 +3,6 @@ name = "license-key"
 version = "0.1.0"
 authors = ["Patrik Svensson <patrik@patriksvensson.se>"]
 description = "A library that makes signaling between threads a bit more ergonomic."
-license = "MIT"
 license-key = "0.1.0"
 repository = "https://github.com/patriksvensson/license-key"
 keywords = ["license", "license-generator", "software-license"]
